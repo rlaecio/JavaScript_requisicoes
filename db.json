@@ -89,7 +89,21 @@
       "descricao": "7 mil visualizações",
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 1
+      "id": 13
+    },
+    {
+      "titulo": "O que é o NextJs?",
+      "descricao": "0 mil visializações",
+      "url": "https://www.youtube.com/embed/sQKzKV7nONM",
+      "imagem": "https://i.ytimg.com/vi/sQKzKV7nONM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLIMnRaJYJdoG3lN2TCZu2i1UkoA",
+      "id": 14
+    },
+    {
+      "titulo": "INICIANDO COM NEXT.JS 13 - TUTORIAL INICIANTE",
+      "descricao": "0 mil visializações",
+      "url": "https://www.youtube.com/embed/2da8JUmNX8M",
+      "imagem": "https://i.ytimg.com/vi/2da8JUmNX8M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNuq3KN94azL921h-Jn6Pm1-fgzw",
+      "id": 15
     }
   ]
 }
